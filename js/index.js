@@ -1,4 +1,4 @@
-var isAdmin = "false";
+var isAdmin = "true";
 
 function validate() {
   var uname = document.forms["login-form"]["username"].value;
